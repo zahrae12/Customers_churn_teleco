@@ -4,7 +4,6 @@ Does fixing class imbalance with SMOTE change *why* a churn model predicts what 
 
 This project trains Random Forest and XGBoost on the IBM Telco Customer Churn dataset, with and without SMOTE, and compares both their performance and their SHAP explanations.
 
-> End-of-module project, Master in Intelligent Systems Processing, Faculty of Sciences, Mohammed V University of Rabat (academic year 2025-2026).
 
 ## Overview
 
