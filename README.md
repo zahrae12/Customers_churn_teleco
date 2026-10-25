@@ -89,15 +89,3 @@ jupyter notebook
 ```
 
 Download the dataset from Kaggle (link above), place the CSV where the notebook expects it, then run the notebook cells in order.
-
-## Authors
-
-- Doha Chaouki
-- Fatima Ezzahrae Zammou
-- Hiba Chenaoui
-
-Supervised by Pr. Khaoula Enaimi.
-
-## License
-
-Add a license of your choice (for example MIT), or remove this section.
