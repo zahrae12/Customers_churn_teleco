@@ -1,0 +1,16 @@
+.git
+.vscode
+.qodo
+.ipynb_checkpoints
+screenshots
+__pycache__
+*.pyc
+*.ipynb
+*.csv
+*.png
+*.json
+*.pdf
+README.md
+rf_smote.pkl
+rf_baseline.pkl
+tests

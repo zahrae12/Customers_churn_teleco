@@ -1,0 +1,5 @@
+!model/churn_pipeline.pkl
+rf_smote.pkl
+rf_baseline.pkl
+__pycache__/
+.pytest_cache/
